@@ -1,9 +1,9 @@
 
-# Sistema de Gestão para Lanchonete Sabor & Arte
+Sistema de Gestão para Lanchonete Sabor & Arte
 
 Este é um aplicativo Android desenvolvido em Kotlin para gestão de vendas e estoque da Lanchonete Sabor & Arte, seguindo os princípios da Clean Architecture e utilizando tecnologias modernas.
 
-## Características Principais
+Características Principais
 
 - ✅ Registro de vendas com cálculo automático de impostos (ISS 5% + ICMS 18%)
 - ✅ Controle de estoque em tempo real
@@ -160,19 +160,10 @@ O projeto inclui configuração para GitHub Actions com:
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
 
-## Licença
-
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
 ## Contato
 
 Projeto desenvolvido para a Lanchonete Sabor & Arte - Sete Lagoas/MG
 
-- Email: contato@saborarte.com.br
+- Email: 202303574746@alunos.estacio.br
 - GitHub: [Cliper04/EXTENS-O](https://github.com/Cliper04/EXTENS-O)
 
-## Agradecimentos
-
-- SEBRAE pela metodologia de gestão de pequenos negócios
-- Firebase pela infraestrutura de backend
-- Comunidade Android pelos recursos e documentação
